@@ -1,1 +1,1 @@
-![13 dolar footlong](/13dolar.png)
+<img src="13dolar.png" style="display: inline-block; width: 50%;" />
